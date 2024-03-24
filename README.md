@@ -1,4 +1,4 @@
-## PixelS Overview
+## PixelS Overview 
 Welcome to my portfolio site dedicated to revamping small businesses in the vibrant San Francisco Bay Area. The purpose of this is to breathe new life into local enterprises, enhancing their online presence, and optimizing their operations for sustained success. I will be using my skills in UX design and expertise in marketing to strategize and create mockups of websites that are more user-friendly.
 
 ## Mission
