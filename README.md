@@ -6,7 +6,7 @@ My mission is to empower small businesses in the San Francisco Bay Area by provi
 
 ## Market Research 
 see market-research
- 
+  
    
      
  
