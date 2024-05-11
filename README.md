@@ -3,7 +3,7 @@ Welcome to my portfolio site dedicated to revamping small businesses in the vibr
 
 ## Mission  
 My mission is to empower small businesses in the San Francisco Bay Area by providing comprehensive and personalized solutions. I fully understand the unique challenges faced by local entrepreneurs and strive to revitalize their digital identity, streamline operations, and boost visibility in the competitive market. My ultimate goal is to help these businesses — one day I hope to offer these solutions to them free of charge.   
-
+ 
 ## Market Research 
 see market-research
   
